@@ -1,0 +1,16 @@
+name: flutter_map_plugins
+id: ari:cloud:compass:53f8835e-3a18-4994-a3e1-d88c2018a416:component/546e2675-3811-412b-8126-f0637fd7307c/aa1d1af5-f17c-4cf4-98f0-eaa67b9bd93f
+description: The source code for all sorts of flutter_map plugins.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/AO-Cyber-Systems/flutter_map_plugins
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
